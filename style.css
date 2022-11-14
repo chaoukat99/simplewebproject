@@ -1,0 +1,21 @@
+.mydiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.mydiv h1{
+   font-family: cursive;
+   font-size: 60pt;
+   color: red;
+}
+.mydiv button{
+    width: 300px;
+  padding: 20px;
+  font-size: 30pt;
+  border-radius: 10px;
+  background-color: teal;
+  font-weight: bold;
+  color:whitesmoke;
+  cursor:pointer
+}
